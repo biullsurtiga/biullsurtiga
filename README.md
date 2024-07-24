@@ -24,6 +24,12 @@
   </a>
 </p>
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/8y3bxm.gif"  />
+
+###
+
 ### Find me
 
   <a href="https://www.linkedin.com/in/severino-urtiga-79a34839/" target="_blank">
