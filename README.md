@@ -6,8 +6,6 @@
   <a href="#">
     <img align="center" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   </a>
-</p>
-<p align="center">
   <a href="#">
     <img align="center" width="300" src="https://i.imgflip.com/8y3bxm.gif" />
   </a>
