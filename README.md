@@ -27,7 +27,7 @@
   </a>
 </p>
 
-### Find me
+##### Find me
 
   <a href="https://www.linkedin.com/in/severino-urtiga-79a34839/" target="_blank">
     <img
@@ -52,10 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/biullsurtiga/biullsurtiga/output/snake.svg" alt="Snake animation" />
-
-###
