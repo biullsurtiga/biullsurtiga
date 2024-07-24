@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/biullsurtiga/biullsurtiga/output/snake.svg" alt="Snake animation" />
 
