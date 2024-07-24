@@ -28,15 +28,12 @@
 </p>
 
 ##### Find me
-
-  <a href="https://www.linkedin.com/in/severino-urtiga-79a34839/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
+<a href="https://www.linkedin.com/in/severino-urtiga-79a34839/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  height="30" alt="linkedin"  />
+    <img width="12" />
   </a>
+  
+##### Tech  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
