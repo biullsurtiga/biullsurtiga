@@ -1,3 +1,7 @@
+<h2 align="left">Hi 👋! My name is Severino Urtiga and I'm a Data Engineer, from Brazil</h2>
+
+###
+
 <p align="center">
   <a href="#">
     <img align="center" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
